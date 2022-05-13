@@ -2,8 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Eunho_Bae&fontSize=70&animation=twinkling)
 
-**strevelun/strevelun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strevelun&show_icons=true&theme=radical)
 <!--
 Here are some ideas to get you started:
